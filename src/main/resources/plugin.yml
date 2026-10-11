@@ -1,9 +1,9 @@
 name: UltimateSponge
 version: ${project.version}
-main: jp.kamei.ultimatesponge.UltimateSpongePlugin
+main: jp.pakupaku.ultimatesponge.UltimateSpongePlugin
 api-version: '26.2'
 description: 1チャンク全体の水を吸収する最強スポンジを追加します
-author: kamei
+author: pakupaku
 
 commands:
   ultimatesponge:

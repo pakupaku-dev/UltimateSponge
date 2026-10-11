@@ -1,4 +1,4 @@
-package jp.kamei.ultimatesponge;
+package jp.pakupaku.ultimatesponge;
 
 import java.util.ArrayList;
 import java.util.Collections;

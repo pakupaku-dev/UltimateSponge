@@ -1,4 +1,4 @@
-package jp.kamei.ultimatesponge;
+package jp.pakupaku.ultimatesponge;
 
 import org.bukkit.NamespacedKey;
 import org.bukkit.Material;

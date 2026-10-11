@@ -1,4 +1,4 @@
-package jp.kamei.ultimatesponge;
+package jp.pakupaku.ultimatesponge;
 
 public enum SpongeState {
     DRY,
