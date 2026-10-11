@@ -1,0 +1,10 @@
+absorption:
+  # 1tickに調べるブロック数です。大きいほど早く完了しますが、負荷が高くなります。
+  blocks-per-tick: 8192
+
+  # 水没可能な階段、ハーフブロック、フェンスなどからも水を除去します。
+  remove-waterlogged: true
+
+drying:
+  # 通常の濡れたスポンジと比較した、かまどでの乾燥時間倍率です。
+  multiplier: 20

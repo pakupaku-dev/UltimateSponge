@@ -1,0 +1,23 @@
+name: UltimateSponge
+version: ${project.version}
+main: jp.kamei.ultimatesponge.UltimateSpongePlugin
+api-version: '26.2'
+description: 1チャンク全体の水を吸収する最強スポンジを追加します
+author: kamei
+
+commands:
+  ultimatesponge:
+    description: 最強スポンジの配布・設定再読み込み
+    usage: /ultimatesponge <give|reload>
+    aliases: [usponge, usp]
+
+permissions:
+  ultimatesponge.use:
+    description: 最強スポンジを設置できます
+    default: true
+  ultimatesponge.give:
+    description: 最強スポンジを配布できます
+    default: op
+  ultimatesponge.reload:
+    description: UltimateSpongeの設定を再読み込みできます
+    default: op
